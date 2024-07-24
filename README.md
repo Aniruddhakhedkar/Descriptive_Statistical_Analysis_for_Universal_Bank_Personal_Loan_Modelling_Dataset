@@ -12,7 +12,7 @@ Furthermore, correlation analysis is conducted to evaluate the strength and dire
 
 ## Tasks/Objectives:-
 
-1. Determine the statistical summary for all the variables in the dataset.
+1. Determination of the statistical summary for all the variables in the dataset.
 
 2. Evaluation of the measures of central tendency and measures of dispersion for all the quantitative variables in the dataset.
 
