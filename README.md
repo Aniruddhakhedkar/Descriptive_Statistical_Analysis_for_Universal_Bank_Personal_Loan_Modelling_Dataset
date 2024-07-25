@@ -1,4 +1,4 @@
-# Project Title:- Performing Descriptive Statistics with Python for an Universal Bank's Personal Loan Modelling Dataset
+# Project Title:- Data Analysis with Python for a Universal Bank's Personal Loan Modelling Dataset
 
 ### Project Description:- 
 
