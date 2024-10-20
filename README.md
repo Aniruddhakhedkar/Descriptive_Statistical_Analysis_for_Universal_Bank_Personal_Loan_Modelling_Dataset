@@ -28,7 +28,7 @@ Furthermore, correlation analysis is conducted to evaluate the strength and dire
 
 8. To plot the outliers present in dataset to showcase to the stakeholders.
 
-9. Find the decile values of the variable ‘Income’ in the dataset.
+9. Find the decile values of the variable ‘Income’ in the dataset
 
 10. Calculate the IQR of all the variables which are quantitative and continuous.
 
